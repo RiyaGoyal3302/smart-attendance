@@ -13,10 +13,3 @@ It has 4 steps which are :
 2. **Data Gathering**
 3. **Data Comparison**
 4. **Face Recognition** 
-
-## ❤️ Owner
-Made with ❤️  by MEMUDU alimatou sadia
-
-## 👍 Credits
-https://www.pyimagesearch.com/ 
-
